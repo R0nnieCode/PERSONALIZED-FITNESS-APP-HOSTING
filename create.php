@@ -5,8 +5,8 @@
 require 'connection.php';
 
 // Define admin credentials
-$username = 'admin';
-$password = 'admin123';
+$username = '';
+$password = '';
 
 // Function to sanitize input (optional but recommended)
 function sanitize_input($data) {
